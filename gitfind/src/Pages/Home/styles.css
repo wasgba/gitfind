@@ -1,0 +1,14 @@
+/* src/Pages/Home/styles.css */
+
+.page-background {
+  /* Mantenha este se quiser */
+  position: relative;
+  min-height: 100vh;
+}
+
+/* REMOVA TODO ESTE BLOCO! */
+/* .page-background::before {
+   content: '';
+   position: absolute;
+   ...
+} */
