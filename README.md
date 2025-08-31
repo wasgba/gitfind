@@ -9,6 +9,7 @@ Um aplicativo web moderno, construído com React, que permite a busca de perfis 
 - **Design Responsivo:** A interface se adapta perfeitamente a diferentes tamanhos de tela, de desktops a dispositivos móveis.
 - **Design Moderno:** Utiliza um layout minimalista e um tema escuro para uma experiência de usuário agradável.
 - **Otimização de Fundo:** A imagem de fundo do mascote do GitHub, o Octocat, é fixa e otimizada para ocupar metade da tela, com transparência sutil, proporcionando um efeito visual moderno sem prejudicar a leitura do conteúdo.
+- **adicionado o botão remover** feito o desafio com o botão remove adicionado quando a busca e feita ele aparece.
 
 ## 💻 Tecnologias Utilizadas
 
